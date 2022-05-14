@@ -1,4 +1,4 @@
-# ☣☢🔱 WELCOME TO TEAM DATAMINATI ☣☢🔱
+# ☣☢🔱 WELCOME TO TEAM DATAMINATI 🔱☢☣
 
 --------------------
 We are the Illuminati of Data
@@ -17,6 +17,7 @@ We all are the team of the MainakRepositor, the DataSultan
 | Symbol | User | Rank | Stars | Team Points | 
 |--------|------|------|-------|-------------|
 | ♌ | [Mainak](https://github.com/MainakRepositor) | CEO | ⭐⭐⭐⭐⭐ | 100🔷 |
+| ♈ | [Rihana] | CTO | ⭐⭐⭐⭐⭐ | 95🔷 |
 
 
 
