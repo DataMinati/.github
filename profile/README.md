@@ -29,3 +29,11 @@ ABOUT THE CEO
 
 ![image](https://user-images.githubusercontent.com/64016811/144609590-94458e45-3283-4b2a-bbec-ef33f12271f8.png)
 
+
+### Data Science Master Topics
+
+![image](https://user-images.githubusercontent.com/64016811/203833400-b9aeaf77-3940-45f7-b68b-79fe951ec661.png)
+
+
+
+
